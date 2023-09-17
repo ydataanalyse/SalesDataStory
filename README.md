@@ -7,15 +7,15 @@ Après avoir nettoyé les données sur SQL, j'ai procédé à une analyse.
 
 ### Objectifs de l'analyse :
 
-- Identifier les produits les plus rentables pour l'entreprise en analysant la différence entre le prix réel et le prix suggéré (DIFFERENCE).
+- Identifier les produits les plus rentables pour l'entreprise en analysant la différence entre le prix réel et le prix suggéré.
 
-- Examiner la relation entre la taille de la transaction (DEALSIZE) et le profit réalisé par commande.
+- Examiner la relation entre la taille de la transaction et le profit réalisé par commande.
 
 - Analyser la performance des ventes au fil du temps en fonction des mois et des trimestres.
 
 - Identifier les clients les plus fidèles en fonction du nombre de commandes passées.
 
-- Évaluer l'impact de la différence entre le prix réel et le prix suggéré (DIFFERENCE) sur le chiffre d'affaires (SALES).
+- Évaluer l'impact de la différence entre le prix réel et le prix suggéré sur le chiffre d'affaires.
 
 - Présenter les résultats de manière visuelle et interactive à l'aide de tableaux de bord de data visualisation pour aider la direction à prendre des décisions stratégiques.
 
